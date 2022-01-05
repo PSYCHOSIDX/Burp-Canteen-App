@@ -1,0 +1,105 @@
+body
+{
+	position: relative;
+width: 1440px;
+height: 993px;
+
+
+background: linear-gradient(116.13deg, #858585 34.4%, #080808 125.83%);
+}
+h1
+{
+position: absolute;
+width: 509px;
+height: 110px;
+left: -40px;
+top: 0px;
+font-family: Squada One;
+font-style: normal;
+font-weight: normal;
+font-size: 96px;
+line-height: 101px;
+text-align: center;
+color: #FFC700;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.canteen1box
+{
+position: absolute;
+width: 732px;
+height: 674px;
+left: 55px;
+top: 250px;
+
+background: #FFFFFF;
+box-shadow: 2px 6px 4px rgba(0, 0, 0, 0.44);
+border-radius: 16px;
+}
+.canteen2box
+{
+position: absolute;
+width: 732px;
+height: 674px;
+left: 828px;
+top: 250px;
+background: #FFFFFF;
+box-shadow: 2px 6px 4px rgba(0, 0, 0, 0.44);
+border-radius: 16px;
+}
+.dbcetext
+{
+position: absolute;
+width: 610px;
+height: 43px;
+left: -91px;
+top: 350px;
+
+font-family: Scada;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 45px;
+text-align: center;
+
+color: #5B5B5B;
+}
+.dbcedescription
+{
+	position: absolute;
+width: 493px;
+height: 133px;
+left: 90px;
+top: 700px;
+
+font-family: Scada;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+color: #838383;
+}
+.viewmorebutton
+{
+	position: absolute;
+width: 462px;
+height: 74px;
+left: 505px;
+top: 1962px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 22px;
+}
+
+ input[type="submit"]
+ {
+ position: absolute;
+width: 309px;
+height: 69px;
+left: 412px;
+top: 800px;
+
+background: linear-gradient(118.35deg, #FFC700 3.31%, #FF8A00 67.52%);
+border-radius: 25px;
+}

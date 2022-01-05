@@ -1,0 +1,79 @@
+body
+{
+	background-color:#FFC700;
+	position: relative;
+	width:1000px; 
+	height:700px;
+}
+.descriptionbox
+{
+position: absolute;
+width: 972px;
+height: 432px;
+left: 350px;
+top: 150px;
+
+background: linear-gradient(119.45deg, #646464 6.84%, #151515 90.67%);
+border-radius: 12px;
+box-sizing: border-box;
+}
+h1
+{
+position: absolute;
+width: 524px;
+height: 110px;
+left: -100px;
+top: 10px;
+font-family: Squada One;
+font-style: normal;
+font-weight: normal;
+font-size: 50px;
+line-height: 95px;
+text-align: center;
+color: #FFFFFF;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+p
+{
+position: absolute;
+width: 972px;
+height: 432px;
+left: 360px;
+top: 150px;
+
+font-family: Squada One;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 38px;
+
+color: #FFFFFF;
+}
+span
+{
+	color:#FFC700 ;
+}
+.smalllogo
+{
+position: absolute;
+width: 502px;
+height: 389px;
+left: 550px;
+top: 300px;
+border-radius: 80px;
+}
+.india
+{
+position: absolute;
+width: 137px;
+height: 43px;
+left: 800px;
+top: 510px;
+
+font-family: Squada One;
+font-style: normal;
+font-weight: normal;
+font-size: 10px;
+line-height: 51px;
+color: #FFC700;
+}

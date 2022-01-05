@@ -1,0 +1,356 @@
+body
+{
+position: relative;
+width: 1392px;
+height: 6512px;
+background: #474747;
+}
+.burplogo
+{
+position: absolute;
+width: 340px;
+height: 316px;
+left: 26px;
+top: -75px;
+border-radius: 80px;
+}
+.dbcecanteenadmintext
+{
+position: absolute;
+width: 1270px;
+height: 74px;
+left: 66px;
+top: 221px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 72px;
+line-height: 88px;
+text-align: center;
+}
+.menutext
+{
+position: absolute;
+width: 480px;
+height: 83px;
+left: -76px;
+top: 340px;
+
+font-family: Squada One;
+font-style: normal;
+font-weight: normal;
+font-size: 90px;
+line-height: 95px;
+text-align: center;
+
+color: #FFFFFF;
+}
+.menubox
+{
+position: absolute;
+width: 1310px;
+height: 140px;
+left: 26px;
+top: 396px;
+
+background: #C4C4C4;
+border-radius: 12px;
+}
+
+.modifymenu
+{
+position: absolute;
+width: 628px;
+height: 247px;
+left: 26px;
+top: 637px;
+background: linear-gradient(140.41deg, #FFC700 22.63%, rgba(100, 100, 100, 0.89) 102.79%);
+border-radius: 15px;
+}
+.modifymenutext
+{
+position: absolute;
+width: 512px;
+height: 205px;
+left: 49px;
+top: 660px;
+
+font-family: Squada One;
+font-style: normal;
+font-weight: normal;
+font-size: 90px;
+line-height: 95px;
+
+color: #FFFFFF;
+}
+.addorremovebestseller
+{
+position: absolute;
+width: 670px;
+height: 252px;
+left: 681px;
+top: 637px;
+
+background: linear-gradient(140.41deg, #FF361B 22.63%, rgba(25, 25, 25, 0.89) 102.79%);
+border-radius: 15px;
+}
+.addorremovebestsellertext
+{
+	position: absolute;
+width: 530px;
+height: 205px;
+left: 729px;
+top: 658px;
+
+font-family: Squada One;
+font-style: normal;
+font-weight: normal;
+font-size: 90px;
+line-height: 95px;
+
+color: #FFFFFF;
+}
+.bestsellerbox
+{
+position: absolute;
+width: 1302px;
+height: 100px;
+left: 28px;
+top: 990px;
+
+background: #FFFFFF;
+border-radius: 12px;
+}
+.bestsellertext
+{
+position: absolute;
+width: 408px;
+height: 31px;
+left: 53px;
+top: 930px;
+
+font-family: Squada One;
+font-style: normal;
+font-weight: normal;
+font-size: 72px;
+line-height: 76px;
+text-align: center;
+
+color: #4A4A4A;
+}
+.bestsellermenubox
+{
+position: absolute;
+width: 1310px;
+height: 1542px;
+left: 20px;
+top: 1115px;
+
+background: #3C3C3C;
+border-radius: 12px;
+}
+.beveragesbox
+{
+position: absolute;
+width: 1302px;
+height: 100px;
+left: 40px;
+top: 2737px;
+
+background: #FFFFFF;
+border-radius: 12px;
+}
+.beveragestext
+{
+position: absolute;
+width: 408px;
+height: 31px;
+left: 42px;
+top: 2690px;
+
+font-family: Squada One;
+font-style: normal;
+font-weight: normal;
+font-size: 72px;
+line-height: 76px;
+text-align: center;
+
+color: #4A4A4A;
+}
+.beveragesmenubox
+{
+position: absolute;
+width: 1310px;
+height: 1937px;
+left: 40px;
+top: 2866px;
+
+background: #3C3C3C;
+border-radius: 12px;
+}
+.contactus
+{
+position: absolute;
+width: 509px;
+height: 110px;
+left: -43px;
+top: 4941px;
+
+font-family: Squada One;
+font-style: normal;
+font-weight: normal;
+font-size: 90px;
+line-height: 95px;
+text-align: center;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.contactbox
+{
+position: absolute;
+width: 972px;
+height: 166px;
+left: 447px;
+top: 5200px;
+background: linear-gradient(119.45deg, #646464 6.84%, #151515 90.67%);
+border-radius: 12px;
+}
+.emailbox
+{
+position: absolute;
+width: 271px;
+height: 87px;
+left: 503px;
+top: 5250px;
+background: linear-gradient(101.34deg, #6C0404 -21.07%, #FF0000 91.58%);
+border-radius: 16px;
+}
+.twitterbox
+{
+position: absolute;
+width: 271px;
+height: 87px;
+left: 803px;
+top: 5250px;
+background: linear-gradient(101.34deg, #0047FF -21.07%, #8BABFF 91.58%);
+border-radius: 16px;
+}
+.instagrambox
+{
+position: absolute;
+width: 271px;
+height: 87px;
+left: 1103px;
+top:  5250px;
+background: linear-gradient(98.84deg, #DC52FF 10.56%, #FB1F1F 89.92%);
+border-radius: 16px
+}
+
+.email
+{
+	position: absolute;
+width: 161px;
+height: 45px;
+left: 600px;
+top: 5250px;
+
+font-family: Squada One;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 38px;
+text-align: center;
+
+color: #FFFFFF;
+}
+.twitter
+{
+position: absolute;
+width: 161px;
+height: 45px;
+left: 890px;
+top: 5250px;
+font-family: Squada One;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 38px;
+text-align: center;
+color: #FFFFFF;
+}
+.instagram
+{
+position: absolute;
+width: 161px;
+height: 45px;
+left: 1180px;
+top: 5250px;
+font-family: Squada One;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 38px;
+text-align: center;
+color: #FFFFFF;
+}
+
+.contactusdetailsbox
+{
+position: absolute;
+width: 1440px;
+height: 151px;
+left: -30px;
+top: 5450px;
+
+background: #333333;
+}
+.smalllogo
+{
+position: absolute;
+width: 249px;
+height: 174px;
+left: -19px;
+top: 5450px;
+
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 80px;
+}
+.address
+{
+
+position: absolute;
+width: 478px;
+height: 116px;
+left: 240px;
+top: 5450px;
+
+font-family: Squada One;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 38px;
+
+color: #FFFFFF;
+}
+span
+{
+color: #FFC700;
+}
+.location
+{
+position: absolute;
+width: 589px;
+height: 69px;
+left: 750px;
+top: 5450px;
+
+font-family: Squada One;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 38px;
+color: #838383;
+}

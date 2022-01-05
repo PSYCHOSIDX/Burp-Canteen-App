@@ -1,0 +1,247 @@
+body
+{
+position: relative;
+width: 1392px;
+height: 1000px;
+
+background: #474747;
+}
+.burpy
+{
+	position: absolute;
+width: 340px;
+height: 316px;
+left: 26px;
+top: -75px;
+
+
+border-radius: 80px;
+}
+.canteens
+{
+	position: absolute;
+width: 595px;
+height: 90px;
+left: 424px;
+top: 30px;
+
+font-family: Rowdies;
+font-style: normal;
+font-weight: bold;
+font-size: 34px;
+line-height: 42px;
+text-align: center;
+color: #FFFFFF;
+}
+.contactus
+{
+	position: absolute;
+width: 595px;
+height: 90px;
+left: 684px;
+top: 30px;
+
+font-family: Rowdies;
+font-style: normal;
+font-weight: bold;
+font-size: 34px;
+line-height: 42px;
+text-align: center;
+
+color: #FFFFFF;
+}
+.whatcanwedo
+{
+	position: absolute;
+width: 595px;
+height: 90px;
+left: 957px;
+top: 30px;
+
+font-family: Rowdies;
+font-style: normal;
+font-weight: bold;
+font-size: 34px;
+line-height: 42px;
+text-align: center;
+
+color: #FFFFFF;
+}
+.dbcecanteentext
+{
+	position: absolute;
+width: 1270px;
+height: 74px;
+left: 66px;
+top: 221px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 72px;
+line-height: 88px;
+text-align: center;
+}
+.snackslogo
+{
+	position: absolute;
+width: 1241px;
+height: 177px;
+left: 69px;
+top: 394px;
+
+border-radius: 12px;
+}
+.SNACKS
+{
+	position: absolute;
+width: 603px;
+height: 52px;
+left: 11px;
+top: 431px;
+
+font-family: Squada One;
+font-style: normal;
+font-weight: normal;
+font-size: 72px;
+line-height: 76px;
+text-align: center;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.77);
+}
+.viewsnacksbutton
+{
+	position: absolute;
+width: 354px;
+height: 51px;
+left: 910px;
+top: 502px;
+
+background: linear-gradient(111.98deg, #FFC700 35.62%, #FF8719 77.08%);
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.77);
+border-radius: 12px;
+
+font-family: Squada One;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 38px;
+text-align: center;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.beverageslogo
+{
+	position: absolute;
+width: 1241px;
+height: 178px;
+left: 69px;
+top: 608px;
+
+border-radius: 12px;
+}
+.Beveragestext
+{
+	position: absolute;
+width: 603px;
+height: 52px;
+left: 55px;
+top: 645px;
+
+font-family: Squada One;
+font-style: normal;
+font-weight: normal;
+font-size: 72px;
+line-height: 76px;
+text-align: center;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.77);
+}
+.viewbeveragebutton
+{
+position: absolute;
+width: 354px;
+height: 51px;
+left: 910px;
+top: 716px;
+
+background: linear-gradient(111.98deg, #FFC700 35.62%, #FF8719 77.08%);
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.77);
+border-radius: 12px;
+
+font-family: Squada One;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 38px;
+text-align: center;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.maincourselogo
+{
+	position: absolute;
+width: 1241px;
+height: 177px;
+left: 69px;
+top: 820px;
+border-radius: 12px;
+}
+.maincoursetext
+{
+position: absolute;
+width: 781px;
+height: 105px;
+left: -7px;
+top: 873px;
+
+font-family: Squada One;
+font-style: normal;
+font-weight: normal;
+font-size: 72px;
+line-height: 76px;
+text-align: center;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.77);
+}
+.viewmaincoursebutton
+{
+position: absolute;
+width: 354px;
+height: 51px;
+left: 910px;
+top: 927px;
+
+background: linear-gradient(111.98deg, #FFC700 35.62%, #FF8719 77.08%);
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.77);
+border-radius: 12px;
+
+
+
+font-family: Squada One;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 38px;
+text-align: center;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}

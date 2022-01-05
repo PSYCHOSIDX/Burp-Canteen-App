@@ -1,0 +1,138 @@
+body
+{
+	background-color:#FFC700;
+	position: relative;
+	width:1000px; 
+	height:500px;
+}
+h1
+{
+position: absolute;
+width: 524px;
+height: 110px;
+left: -100px;
+top: 10px;
+font-family: Squada One;
+font-style: normal;
+font-weight: normal;
+font-size: 50px;
+line-height: 95px;
+text-align: center;
+color: #FFFFFF;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.contactbox
+{
+position: absolute;
+width: 972px;
+height: 166px;
+left: 300px;
+top: 150px;
+background: linear-gradient(119.45deg, #646464 6.84%, #151515 90.67%);
+border-radius: 12px;
+box-sizing: border-box;
+}
+. input [type=submit]
+{
+	position: absolute;
+width: 161px;
+height: 45px;
+left: 460px;
+top: 180px;
+
+
+
+color: #FFFFFF;
+background: linear-gradient(101.34deg, #6C0404 -21.07%, #FF0000 91.58%);
+border-radius: 16px;
+}
+. input[type=submit]
+{
+position: absolute;
+width: 161px;
+height: 45px;
+left: 750px;
+top: 180px;
+font-family: Squada One;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 38px;
+text-align: center;
+color: #FFFFFF;
+background: linear-gradient(101.34deg, #0047FF -21.07%, #8BABFF 91.58%);
+border-radius: 16px;
+}
+. input[type=submit]
+{
+position: absolute;
+width: 161px;
+height: 45px;
+left: 1040px;
+top: 180px;
+font-family: Squada One;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 38px;
+text-align: center;
+color: #FFFFFF;
+background: linear-gradient(98.84deg, #DC52FF 10.56%, #FB1F1F 89.92%);
+border-radius: 16px
+}
+.contactusdetailsbox
+{
+position: absolute;
+width: 1485px;
+height: 170px;
+left: -8px;
+top: 555px;
+background: #333333;
+}
+s
+.smalllogo
+{
+position: absolute;
+width: 249px;
+height: 164px;
+left: 3px;
+top: 560px;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 80px;
+}
+.address
+{
+position: absolute;
+width: 478px;
+height: 100px;
+left: 300px;
+top: 540px;
+font-family: Squada One;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 38px;
+color: #FFFFFF;
+}
+span
+{
+	color: #FFC700;
+
+}
+.location
+{
+	position: absolute;
+width: 589px;
+height: 69px;
+left: 750px;
+top: 540px;
+
+font-family: Squada One;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 38px;
+
+color: #838383;
+
+}

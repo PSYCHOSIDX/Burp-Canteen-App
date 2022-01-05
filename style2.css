@@ -1,0 +1,238 @@
+body
+{
+	background-color:#FFC700;
+	position: relative;
+	width:1300px; 
+	height:1024px;
+}
+.smalllogo
+{
+position: absolute;
+width: 258px;
+height: 279px;
+left: -25px;
+top: -40px;
+}
+.logo
+{
+position: absolute;
+width: 692px;
+height: 699px;
+left: 79px;
+top: 142px;
+background: linear-gradient(164.2deg, #6A6A6A 11.03%, #000000 100.29%);
+box-shadow: 0px 17px 4px rgba(0, 0, 0, 0.25);
+border-radius: 50%;
+}
+.canteen
+{
+position: absolute;
+width: 595px;
+height: 90px;
+left: 530px;
+top: 30px;
+font-family: Rowdies;
+font-style: normal;
+font-weight: bold;
+font-size: 34px;
+line-height: 42px;
+text-align: center;
+color: #FFFFFF;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.contactus
+{
+position: absolute;
+width: 595px;
+height: 90px;
+left: 750px;
+top: 30px;
+font-family: Rowdies;
+font-style: normal;
+font-weight: bold;
+font-size: 34px;
+line-height: 42px;
+text-align: center;
+color: #FFFFFF;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.whatcanwedo
+{
+position: absolute;
+width: 595px;
+height: 90px;
+left: 1000px;
+top: 30px;
+font-family: Rowdies;
+font-style: normal;
+font-weight: bold;
+font-size: 34px;
+line-height: 42px;
+text-align: center;
+color: #FFFFFF;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.beyondfood
+{
+position: absolute;
+width: 595px;
+height: 90px;
+left: 129px;
+top: 612px;
+font-family: Rowdies;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 45px;
+text-align: center;
+color: #FFFFFF;
+}
+.hungry
+{
+position: absolute;
+width: 496px;
+height: 69px;
+left: 887px;
+top: 156px;
+font-family: Slackey;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 68px;
+/* identical to box height */
+text-align: center;
+color: #FFFFFF;
+}
+.yourinthe
+{
+position: absolute;
+width: 518px;
+height: 112px;
+left: 862px;
+top: 225px;
+
+
+font-family: Slackey;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 68px;
+text-align: center;
+
+color: #848484;
+}
+.rightplace
+{
+
+position: absolute;
+width: 518px;
+height: 112px;
+left: 862px;
+top: 285px;
+font-family: Slackey;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 68px;
+text-align: center;
+color: #5A5A5A;
+}
+.beverages
+{
+position: absolute;
+width: 233px;
+height: 36px;
+left: 762px;
+top: 799px;
+font-family: Slackey;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 34px;
+text-align: center;
+color: #000000;
+}
+.snacks
+{
+position: absolute;
+width: 233px;
+height: 36px;
+left: 970px;
+top: 823px;
+
+font-family: Slackey;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 68px;
+text-align: center;
+
+color: #FFFFFF;
+}
+.maincourse
+{
+position: absolute;
+width: 206px;
+height: 36px;
+left: 1224px;
+top: 800px;
+font-family: Slackey;
+font-style: normal;
+font-weight: normal;
+font-size: 23px;
+line-height: 33px;
+text-align: center;
+color: #000000;
+}
+.beveragelogo
+{
+position: absolute;
+width: 280px;
+height: 296px;
+left: 771px;
+top: 462px;
+}
+.snackslogo
+{
+position: absolute;
+width: 368.63px;
+height: 373.62px;
+left: 917px;
+top: 425.34px;
+box-shadow: 12px 12px 4px rgba(0, 0, 0, 0.88);
+transform: rotate(-0.67deg);
+border-radius:50%;
+}
+.maincourselogo
+{
+position: absolute;
+width: 272px;
+height: 296px;
+left: 1158px;
+top: 462px;
+border-radius: 1000px;
+}
+input[type="submit"]
+{
+position: absolute;
+width: 407px;
+height: 99px;
+left: 218px;
+top: 904px;
+background: linear-gradient(92.27deg, #FFFFFF 48.1%, rgba(196, 196, 196, 0) 180.93%);
+filter: drop-shadow(3px 6px 4px #555555);
+border-radius: 22px;
+font-family: Slackey;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 68px;
+text-align: center;
+color: #FFC700;
+}
+input[type="submit"]:hover
+{
+	cursor:pointer;#ADD8E6;
+     background: linear-gradient(118.35deg, #ADD8D6 3.31%, #ADE8F6 67.52%);
+	color:#000;
+}

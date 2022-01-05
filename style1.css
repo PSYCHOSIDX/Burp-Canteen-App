@@ -1,0 +1,175 @@
+body
+{
+position: relative;
+width: 1440px;
+height: 1024px;
+background: #3B3B3B;
+}
+
+.logo
+{
+    position: absolute;
+    width: 600px;
+    height: 407px;
+    left: 420px;
+    top: 17px;
+}
+.ellipse3
+{
+position: absolute;
+width: 744px;
+height: 500px;
+left: -235px;
+top: -10px;
+
+}
+
+.ellipse1
+{
+position: absolute;
+width: 744px;
+height: 500px;
+left: -235px;
+top: 650px;
+
+}
+
+.ellipse4
+{
+position: absolute;
+width: 744px;
+height: 500px;
+left: 1100px;
+top: 650px;
+
+
+}
+
+.ellipse2
+{
+position: absolute;
+width: 744px;
+height: 500px;
+left: 1100px;
+top: -10px;
+
+}
+
+h1
+{
+    position: absolute;
+    width: 255px;
+    height: 34px;
+    left: 589px;
+    top: 326px;
+    font-family: Rowdies;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 34px;
+    line-height: 42px;
+    text-align: center;
+    color: #C2C2C2;
+}
+
+.username
+{
+    position: absolute;
+    width: 190px;
+    height: 33px;
+    left: 390px;
+    top: 370px;
+    font-family: Rowdies;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 34px;
+    line-height: 42px;
+    text-align: center;
+    color: #FFC700;
+}
+
+.password
+{
+    position: absolute;
+    width: 190px;
+    height: 21px;
+    left: 385px;
+    top: 500px;
+    font-family: Rowdies;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 34px;
+    line-height: 42px;
+    text-align: center;
+    color: #FFC700;
+}
+
+input[type="text"] 
+{
+    position: absolute;
+    width: 641px;
+    height: 71px;
+    left: 405px;
+    top: 452px;
+    font-size: 30px;
+    background: #F2F2F2;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 12px;
+}
+
+input[type="password"]
+{
+    position: absolute;
+    width: 641px;
+    height: 71px;
+    left: 405px;
+    top: 579px;
+    font-size: 30px;
+    background: #F2F2F2;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 12px;
+}
+
+input[type="submit"]
+{
+    position: absolute;
+    width: 353px;
+    height: 69px;
+    left: 549px;
+    top: 685px;
+    font-size: 34px;
+    color: #FFFFFF;
+    background: linear-gradient(118.35deg, #FFC700 3.31%, #FF8A00 67.52%);
+    border-radius: 25px;
+}
+
+
+input[type="submit"]:hover
+{
+	cursor:pointer;#ADD8E6;
+     background: linear-gradient(118.35deg, #ADD8D6 3.31%, #ADE8F6 67.52%);
+	color:#000;
+}
+
+a
+{
+    position: absolute;
+    width: 304px;
+    height: 31px;
+    left: 574px;
+    top: 789px;
+    font-family: Rowdies;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 34px;
+    line-height: 42px;
+    text-align: center;
+    text-decoration-line: underline;
+    color: #C2C2C2;
+}
+
+a:hover
+{
+    color:#FFC700;
+}
