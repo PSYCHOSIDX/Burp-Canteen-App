@@ -188,7 +188,14 @@ while($row = mysqli_fetch_array($main_result))
     
 </div>
 
+<div class="holder">
+    <div class="card">
 
+<a class="btn_sold" style="margin:1rem; width:50%;font-family:monospace" href="sold_update_all.php">MARK ALL AS SOLD </a>
+<a class='btn_available'  style="margin:1rem; width:50%; font-family:monospace" href="available_update_all.php" >MARK ALL AS AVAILABLE </a>
+
+    </div>
+</div>
 
 <!--Footer-->
 
