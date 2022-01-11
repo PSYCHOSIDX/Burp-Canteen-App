@@ -1,0 +1,366 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    scroll-behavior: smooth;
+}
+
+body{
+    background-image: linear-gradient(140deg, rgb(39, 39, 39) , rgb(34, 34, 34));
+    scroll-behavior: smooth;
+}
+
+nav{
+    display: flex;
+    width: 100%;
+    height: 10vh;
+    margin-bottom: 2rem;
+}
+.left{
+    width: 20%;
+}
+.left img{
+    width:60%;
+    margin-top: -1rem;
+    
+}
+
+.right{
+    width:80%;
+    display: flex;
+    justify-content: right;
+}
+.right ul{
+    display: flex;
+    padding: 1rem;
+    text-align: right;
+    margin-top: 1rem;
+
+}
+.right ul li{
+    list-style: none;
+    align-items: flex-end;
+}  
+.right ul li a{
+    text-decoration: none;
+    padding: 1rem;
+    font-family: Rowdies;
+    color: white;
+    font-size:1.3rem;
+}
+
+.right ul li a:hover{
+    color: rgb(255, 229, 80);
+}
+
+
+/* College name */
+
+.yellow_text{
+    background: -webkit-linear-gradient(45deg, rgb(255, 255, 255), rgb(233, 255, 35));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    font-family:monospace;
+    font-size:2rem;
+}
+/* view different menus */
+
+.hold{
+    display: flex;
+    align-items: center;
+    padding: auto;
+    justify-content: center;
+}
+.cardholder{
+    position: relative;
+    width:90%;
+    margin-bottom: 3rem;
+
+}
+.class
+{
+ 
+    width: 100%;
+   margin: auto;
+   margin-top: -5rem;
+}
+.center
+{
+   display: flex;
+  
+    margin: auto;
+  
+    border-radius: 1rem;
+    padding: 8rem;
+    justify-content: center;
+    
+}
+.t_left 
+{
+   padding: 1rem;
+    width: 70%;
+ margin: auto;
+}
+.b_right
+{
+   margin: auto;
+    width: 30%;
+    text-align: right;
+    align-items: flex-end;
+    padding: 1rem; 
+
+}
+
+.b_right a{
+    text-decoration: none;
+    list-style: none;
+}
+/*snackstext*/
+.snackstext
+{
+position: absolute;
+width: 603px;
+height: 46px;
+left: 11px;
+
+
+font-family: Squada One;
+font-style: normal;
+font-weight: normal;
+font-size: 5rem;
+line-height: 5rem;
+text-align: center;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.77);
+}
+/*snackslogo*/
+.snackslogo
+{
+position: absolute;
+width:65rem;
+height: 177px;
+
+left: 69px;
+z-index: -2;
+border-radius: 12px;
+}
+
+
+
+/* snacks menu view button */
+.viewsnacksbutton
+{ position: absolute;
+width: 354px;
+height: 45px;
+left: 40rem;
+margin-top: 4rem;
+
+background: linear-gradient(111.98deg, #FFC700 35.62%, #FF8719 77.08%);
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.77);
+border-radius: 12px;
+
+font-family: Squada One;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 38px;
+text-align: center;
+cursor: pointer;
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+z-index: 3;
+}
+
+.viewsnacksbutton:hover{
+    background: #5c5c5c;
+}
+
+
+/* menu */
+.menu_head
+{
+    padding: 1rem 3rem;
+    width: 80%;
+    background-image: linear-gradient(55deg , rgb(0, 0, 0) , rgb(0, 0, 0));
+    font-size: 1.7rem;
+    font-family: sans-serif;
+    color: #FFFFFF;
+    border-radius: 1rem;
+    margin: auto;
+    
+}
+
+/* Category */
+.category{
+    padding: 1rem 3rem;
+    font-size: 1.6rem;
+    width: 80%;
+    font-family: sans-serif;
+    color:#ffffff;
+    border-radius: 1rem;
+    background-image: linear-gradient(46deg, red , orange);
+    margin: auto;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+/* Menu Items */
+
+.holder{
+    background-color: #303030;
+    border-radius: 1rem;
+    width: 80%;
+    margin: auto;
+    border: .02px solid rgb(65, 65, 65);
+    margin-bottom: .4rem;
+}
+.card{
+    background-color: rgba(48, 48, 48, 0.952);
+    display: flex;
+    width: 100%;
+    margin: auto;
+    margin-bottom:0rem;
+   
+    border-radius: 1rem;
+    padding: 2rem;
+    cursor: pointer;
+    border-bottom:1px  solid #ffffff1f;
+    border-radius: .6rem;
+}
+
+.c_left{
+    padding: 1rem;
+    font-family:Impact, Haettenschweiler, sans-serif;
+    width: 70%;
+    font-size:medium;
+    color: #C4C4C4;
+}
+
+.sold{
+    color: #ff7300;
+}
+.available{
+    color: #009207;
+}
+.state{
+    font-family: monospace;   
+}
+
+.veg{
+color: #009207;
+}
+.nonveg{
+    color: rgb(241, 64, 64);
+}
+.c_right{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 30%;
+    font-size:medium;
+    color: #ffffff;
+    text-align: right;
+    align-items: flex-end;
+    padding: 2rem;
+    
+}
+.c_right p{
+    margin: .5rem;
+}
+
+.btn_sold{
+    padding: 1rem 1.3rem;
+    background-image: linear-gradient(45deg, red , rgb(179, 5, 5));
+    border-radius: .5rem;
+}
+
+.btn_sold:hover{
+
+    background-image: linear-gradient(45deg, rgb(92, 92, 92) , rgb(54, 54, 54));
+    cursor: pointer;
+}
+
+.btn_sold a{
+    text-decoration: none;
+    color: #FFFFFF;
+    list-style: none;
+}
+
+.btn_available{
+    padding: 1rem 1.3rem;
+    background-image: linear-gradient(45deg, rgb(0, 173, 29) , rgb(21, 161, 16));
+    border-radius: .5rem;
+}
+
+.btn_available:hover{
+    cursor: pointer;
+    background-image: linear-gradient(45deg, rgb(92, 92, 92) , rgb(54, 54, 54));
+}
+
+.btn_available a{
+    text-decoration: none;
+    color: #FFFFFF;
+    list-style: none;
+}
+
+
+/* Footer */
+
+.foot{
+    display: flex;
+    width: 100%;
+    margin: auto;
+    background-color: #181818;
+    height: 18vh;
+}
+
+.foot img{
+    width:18%;
+    height: 80%;
+    margin-left: .2rem;
+}
+.text{
+    width: 30%;
+    padding: 1rem 0rem 0rem 3rem;
+    color: white;
+    cursor: pointer;
+    margin: auto;
+}
+.text h3, p{
+    font-family: sans-serif;
+}
+.location{
+    width:100%;
+    display:flex;
+    margin: auto;
+
+}
+span
+{
+color: #FFC700;
+}
+/* .location h3{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+} */
+.locationtext 
+{
+     width:50%;
+     padding: 0rem 0rem 0rem 14rem;
+     color: white;
+     font-size:1.5rem;
+    margin: auto;
+}
+.location iframe{
+    margin: auto;
+    padding: 0rem 12rem;
+    border: none;
+    height:6rem;
+    padding: .1rem;
+    margin-top: .5rem;
+    width: 90%;
+    border-radius: 1rem;
+}
