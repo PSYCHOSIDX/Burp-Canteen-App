@@ -174,7 +174,7 @@ while($row = mysqli_fetch_array($menu_result))
 
     <td> <input name="qty" type="text" value="<?php echo $qty ?>" placeholder="<?php echo $qty ?>" ></td>
 
-    <td> <input name="description" type="text" value="" placeholder="<?php echo $description?>"></td>
+    <td> <input name="description" type="text" value="<?php echo $description?>" placeholder="<?php echo $description?>"></td>
 
 
     <td>  <p class="drop"><?php echo $category?></p>
