@@ -20,6 +20,9 @@ margin-right: .3rem;
 
 }
 
+td{
+    color: aliceblue;
+}
 
 .drop{
     font-family: monospace;
