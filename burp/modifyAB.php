@@ -83,7 +83,7 @@ while($row = mysqli_fetch_array($all_result))
 
     <h2 class="menu_head">ADD ITEMS TO MENU</h2>
     <br> <br>
-    <div class="holderx" style="  background-image: linear-gradient(125deg, red , yellow);">
+    <div class="holderx" style="  background-image: linear-gradient(25deg, red , yellow);">
     <div class="card ">
 
     <form action="additem.php" method="POST" style="font-family: sans-serif ; margin:3rem;">

@@ -1,6 +1,6 @@
 body{
-    background-image: linear-gradient(124deg, rgb(243, 189, 12) , rgb(255, 134, 125));
-    
+    background-image: linear-gradient(104deg, rgb(243, 189, 12) , rgb(247, 119, 15));
+    overflow-x: hidden;
 }
 
 .sec1{
@@ -8,7 +8,7 @@ body{
     width:90%;
     margin: auto;
     height: 80vh;
-    overflow: hidden;
+    flex-direction: row-reverse;
 }
 
 .sec_left{
@@ -29,9 +29,10 @@ body{
     background-image: linear-gradient(45deg, rgba(255, 255, 255, 0.733) ,rgb(255, 255, 255));
 }
 .sec_left img{
-    width:90%;
+    width:86%;
     margin: auto;
-    margin-top: -2rem;
+    margin-top: -1.3rem;
+    
 }
 .sec_right{
     width: 36%;
@@ -53,7 +54,7 @@ body{
     z-index: -2;
 }
 .sec_right img{
-    width: 90%;
+    width: 94%;
     z-index: 2;
 }
 
@@ -73,7 +74,7 @@ body{
     
         background-image: linear-gradient(34deg, rgb(48, 48, 48) , rgb(82, 82, 82));
     
-    color: rgb(250, 194, 11);
+    color: rgb(255, 196, 0);
 }
 
 .card_bg{
@@ -83,10 +84,12 @@ body{
 
 
 .cantex{
-    color: rgb(255, 166, 0) ;
-    font-family: sans-serif;
-    margin: .5rem;
-    font-size: 5rem;
+   color: rgb(255, 187, 0);
+    font-family: sans-serif ;
+    box-shadow: rgb(138, 110, 17) .1rem;
+    margin: 1rem;
+    font-size: 4rem;
+    margin-top: 1rem;
     margin-bottom: .4rem;
 }
 
@@ -145,7 +148,7 @@ body{
     display: flex;
     width: 100%;
     margin: 1rem;
-    overflow-x: hidden;
+   
 }
 
 .left_l{
@@ -160,6 +163,7 @@ body{
     border-radius: 1rem;
     width: 100%;
     margin-right: -2rem;
+    border: .02rem white solid;
 }
 
 .gg{

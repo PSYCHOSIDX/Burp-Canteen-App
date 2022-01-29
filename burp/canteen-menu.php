@@ -40,7 +40,9 @@ $all_result = mysqli_query($con, $all);
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles/style.css">
     <link rel="stylesheet" href="styles/canteen-menu.css">
+   
     <!--FONTS-->
     <link href="https://fonts.googleapis.com/css2?family=Rowdies" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Righteous&display=swap" rel="stylesheet">
@@ -60,7 +62,7 @@ $all_result = mysqli_query($con, $all);
         </div>
         <div class="right">
             <ul>
-                <li><a href="#"> Home</a></li>
+                <li><a href="index.php"> Home</a></li>
                 <li><a href="#con"> Contact Us</a></li>
                 
             </ul>
@@ -238,8 +240,19 @@ while($row = mysqli_fetch_array($main_result))
 ?>
     
 </div>
+<br> <br> <br>
+<div class="info" id="what">
+    <div class="left_l">
 
-
+    </div>
+    <div class="right_r">
+            <div class="blockx">
+                <h1 style="color:white; padding:1rem;font-family:Anton">Contact Us
+            </h1> <br>
+            <a class="mail"href="#"> Mail</a>  <a class="insta" href="#"> Instagram</a>  <a class="tw" href="#">Twitter</a>
+        </div>
+    </div>
+</div>
 <!--Footer-->
 
 <div class="foot" id="con">

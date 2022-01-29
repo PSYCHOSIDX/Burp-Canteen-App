@@ -113,7 +113,7 @@ Affordable and quality food served at the canteen </p>
     <div class="right_r">
             <div class="block">
                 <img src="images/logo_white.png" alt="logo">
-                <h2 class="gg">At Burp ! We Bring You The Best COLLEGE Canteens And Mess In Your Locality <br>To Make Your Dining Experience  Great !    Hope You Enjoy Our Service ..... </h2>
+                <h2 class="gg">At Burp ! We Bring You The Best College Canteens And Mess In Your Locality <br>To Make Your Dining Experience  Great !    Hope You Enjoy Our Service ..... </h2>
             </div>
     </div>
 </div>
@@ -130,6 +130,8 @@ Affordable and quality food served at the canteen </p>
         </div>
     </div>
 </div>
+
+<br> <br>
 <!--Footer-->
 
 <div class="foot" id="con">
