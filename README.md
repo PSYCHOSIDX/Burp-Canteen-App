@@ -12,5 +12,5 @@ Knowing what's available in canteen / mess is a big problem in large universitie
 >  2) Admin (canteen manager / owner ) - with login and dashboard to manage the canteen .
 
 
-# Burp-Canteen-App
+# Burp !
 ![BURP !](https://user-images.githubusercontent.com/63893110/160256409-e9a85b2d-d1c0-4727-b5cb-d84198cafeb8.png)
